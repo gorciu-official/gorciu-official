@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/gorciu-official/gorciu-official/main/banner.png">
+</div>
+
+---
 
 # Witam w repozytorium Gorciu'a na Githubie!
 
