@@ -13,4 +13,4 @@ Jestem deweloperem PHP, HTML, CSS i JavaScript - są to moje ulubione języki, a
 - 🤖 nie potrzebuję zespołu, aby stworzyć rzeczy w rodzaju Facebooka czy Wykop.PL
 - 🦠 szybko znajduję bugi i nie tkwią więcej niż kilka dni w danym projekcie
 
-(Dołącz na Discorda)[https://discord.gg/6Sw99GQHfv]
+<a href="https://discord.gg/6Sw99GQHfv">Dołącz na Discord'a</a>
