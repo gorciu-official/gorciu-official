@@ -1,3 +1,7 @@
 # Moje projekty
 
-Aktualnie pracuję z Eklerką25 nad systemem operacyjnym GorciuSystems.
+**Aktualnie pracuję nad:** systemem operacyjnym GorciuSystems z Eklerką25.
+
+**Reszta:**
+- Batch Tools
+- Internet Explorer Restorer
