@@ -14,6 +14,6 @@ Jestem deweloperem PHP, HTML, CSS i JavaScript - są to moje ulubione języki, a
 - 🦠 szybko znajduję bugi i nie tkwią więcej niż kilka dni w danym projekcie
 
 **Moje projekty:**
-Moje projekty możesz zobaczyć tu: [https://github.com/gorciu-official/gorciu-official/blob/main/PROJECTS.md](klik);
+Moje projekty możesz zobaczyć tu: (https://github.com/gorciu-official/gorciu-official/blob/main/PROJECTS.md)[klik];
 
-[https://discord.gg/6Sw99GQHfv](Dołącz na Discord'a)
+(https://discord.gg/6Sw99GQHfv)[Dołącz na Discord'a]
