@@ -1,6 +1,11 @@
-# hi ig
+# hi.
 
-i am an os-dev or a web-dev, depends on the weather tbh, recently i've been doing some osdeving and that's it ig
+I'm a developer doing random things that look fun. some of things I've tried were:
+
+- operating system development: I've made a few operating systems or operating system kernels over the course of past years with various outcomes, but [Utopia](https://github.com/gorciu-official/Utopia) is quite good, so you can take a look or smth
+- web development: most of my web-dev things are closed source, but I still know shit (lol)
+- machine learning: I've created an MLP network - [Textfred](https://github.com/gorciu-official/Textfred) and a primitive Transformer "model" called [Sunfred](https://github.com/gorciu-official/Textfred)
+- TUI/web game development: there are a few games I've made, ranging from [simple TUI ones like JUAMP](https://github.com/gorciu-official/JUAMP) to [simple web games like VirtualMiner](https://github.com/gorciu-official/VirtualMiner). none of them are 3D and none use a game engine, so I wouldn't call myself a game developer
 
 random stats:
 
